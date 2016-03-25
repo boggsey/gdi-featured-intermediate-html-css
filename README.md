@@ -26,8 +26,8 @@ Introduction to HTML/CSS or basic HTML/CSS experience.
 ### Tech requirements:
 
 * Your laptop and charger. Note: A netbook or tablet is NOT a substitute.
-* A modern browser: either Chrome with the "Web Developer" extension or Firefox with Firebug installed. 
-* A text editor. We recommend Sublime Text 2 (free; available for both Mac and PC).
+* A modern browser: either Chrome with the "Web Developer" extension
+* A text editor. We recommend Sublime Text 3 (free; available for both Mac and PC).
 
 ### Topics covered:
 
