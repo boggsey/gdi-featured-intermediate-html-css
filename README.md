@@ -2,6 +2,15 @@ Intermediate HTML/CSS &amp; Intro to Responsive Design
 ================================
 #### Written by Cara Jo Miller, GDI Boulder. Modified by Lisa Smith, GDI RDU
 ---------------------
+
+## TODO
+* Remove LESS and SASS in favor of a full workshop. Students seem to get confused depending on where this falls in class and some topics seem like they are beyond the scope of the class.
+* Make sure all HTML is to spec.
+* Responsiveness should be moved earlier in class.
+* Spend less time on various CSS3 properties and focus on border-box and flex-box
+* Vendor prefixes should be mentioned, but they can probably go away
+
+
 ## Course description
 
 Through the course of this four-part class, you'll get a thorough introduction to HTML5 and CSS3 to build on your previous knowledge. You'll get hands-on experience working with HTML5 features like semantic elements and forms, and you'll learn new CSS3 properties and abilities including transformations and transitions. Finally, we'll dig into responsive design and browser compatibility.
